@@ -39,3 +39,11 @@ Feel free to follow along, star the repo, and share suggestions or improvements!
 
 > 🚨 Consistency beats intensity. Let's go! 💪  
 > #100DaysOfCode #LeetCode #Java #DSA #CodingJourney
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0485-max-consecutive-ones](https://github.com/KaranRathore05/DSA-Journey/tree/master/0485-max-consecutive-ones) |
+<!---LeetCode Topics End-->
